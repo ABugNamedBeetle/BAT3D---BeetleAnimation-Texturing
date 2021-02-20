@@ -1,4 +1,5 @@
-# BAT3D---BeetleAnimation-Texturing
+# BAT3D-BeetleAnimation-Texturing
 2D animation and 3D texturing
 
-#Current Status: laying ground work
+#Current Status
+-laying ground work
